@@ -35,6 +35,8 @@
 我今天就想到这么多，后续还有补充的我会在自己的GitHub上更新，下面是我的主页和联系方式。
 
 **GitHub主页：https://github.com/smile-jay-lee/experience.git**
+
 （考虑到一些同学可能不会翻墙，我再放个gitee链接吧，大家有机会还是得学学翻墙，计算机很多用到的都需要翻墙，比如说编程大师兼情感大师chatgpt）
 **Gitee主页：https://gitee.com/smile_jay/experience**
+
 **微信：lj748974300**
